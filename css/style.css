@@ -1,0 +1,22 @@
+.background_intestazione{
+    width: 100%;
+    height: 100px;
+    background-image: url(../img/img/pattern.png);
+    background-color: aqua;
+}
+
+.margin_title{
+   margin: 0px; 
+}
+
+.margine_immagini{
+    margin-left: 0px;
+}
+
+.padding_elenco{
+    padding-left: 10px;
+}
+
+.testo_evidenziato{
+    background-color: yellow;
+}
