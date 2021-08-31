@@ -29,3 +29,26 @@ thead{
 .righe_celesti{
     background-color: rgb(164, 226, 245);
 }
+
+.monitor{
+    color: mintcream;
+    font-weight: bold;
+    background-image: url(../img/img/monitor.jpg);
+    background-size: cover;
+    width: 180px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.grafico{
+    color: mintcream;
+    font-weight: bold;
+    background-image: url(../img/img/graph.jpg);
+    background-size: cover;
+    width: 180px;
+    height: 150px;
+}
+
+.paragrafo_footer{
+    color: silver;
+}
