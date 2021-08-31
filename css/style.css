@@ -19,4 +19,13 @@
 
 .testo_evidenziato{
     background-color: yellow;
+    
+}
+thead{
+    background-color: deepskyblue;
+    color: ivory;
+    }
+
+.righe_celesti{
+    background-color: rgb(164, 226, 245);
 }
